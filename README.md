@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **liotauhid@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PL30pXvmL5yKoFP4OTeMx6RMfvJs3AdLM5lWofig4X8/edit?usp=sharing](https://docs.google.com/document/d/1PL30pXvmL5yKoFP4OTeMx6RMfvJs3AdLM5lWofig4X8/edit?usp=sharing)
+- 📄 Know about my experiences [https://t.ly/gXOX](https://t.ly/gXOX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
