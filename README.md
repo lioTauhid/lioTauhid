@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang, Block Chain, DevOps**
 
-- 👯 I’m looking to collaborate on [BijoyEkush Bangle Dictionary](https://github.com/lioTauhid/BijoyEkush)
+- 👯 I’m looking to collaborate on [BijoyEkush Bangle Dictionary](https://github.com/lioTauhid/BijoyEkush-Bangla-Dictionary)
 
 - 💬 Ask me about **Flutter, IoT, Qt, Python, Go, Java**
 
