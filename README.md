@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [MegaMind Tech](https://megamindtech.com/)
 
-- 🌱 I’m currently learning **GoLang, Block Chain, DevOps**
+- 🌱 I’m currently learning **GoLang, Block-Chain, DevOps**
 
-- 👯 I’m looking to collaborate on [BijoyEkush Bangle Dictionary](https://github.com/lioTauhid/BijoyEkush-Bangla-Dictionary)
+- 👯 I’m looking to collaborate on [QBangla Dictionary](https://github.com/lioTauhid/QBangla-Dictionary)
 
 - 💬 Ask me about **Flutter, IoT, Qt, Python, Go, Java**
 
